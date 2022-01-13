@@ -11,12 +11,6 @@ It's assumed that zookeeper, kafka, elasticsearch and Kibana are running in the 
 
 # Usage:
 
-* First train the anomaly detection model, run the file:
-
-```bash
-model/train.py
-```
-
 * Create the required topic
 
 ```bash
