@@ -1,4 +1,4 @@
-# Kafka Elaticsearch Log Processing
+# Kafka Elasticsearch Log Processing
 
 Project for real time log processing using kafka, Python and Elasticsearch
 
