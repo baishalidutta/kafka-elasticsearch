@@ -18,7 +18,7 @@ class LogParser:
 
     @staticmethod
     def read_log_file():
-        filename = "../Zookeeper_2k.log"
+        filename = "../data/Zookeeper_2k.log"
         return open(filename, "r")
 
     @staticmethod
