@@ -32,5 +32,5 @@ kafka_producer.py
 * Start the elasticsearch consumer to store entries to elasticsearch
 
 ```bash
-es-python.py
+elastic-search.py
 ```
