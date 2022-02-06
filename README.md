@@ -1,6 +1,6 @@
 # Kafka Elasticsearch Log Processing
 
-Project for real time log processing using kafka, Python and Elasticsearch
+Project for real-time log processing using kafka, Python and Elasticsearch
 
 It's assumed that zookeeper, kafka, elasticsearch and Kibana are running in the localhost, it follows this process:
 
@@ -34,3 +34,7 @@ kafka_producer.py
 ```bash
 elastic-search.py
 ```
+
+## Developer
+
+Baishali Dutta (<a href='mailto:me@itsbaishali.com'>me@itsbaishali.com</a>)
